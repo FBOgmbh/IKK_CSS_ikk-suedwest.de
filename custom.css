@@ -1,9 +1,9 @@
 .page-custom-css {
 main {
-sprintf(h2 {
+h2 {
     background: green;
     color: white;
     border: 1px solid red;
-})
+}
 }
 }
