@@ -1,2 +1,3 @@
-
-   #download-desktop {display: none}
+@media (max-width: 800px) {
+    #download-desktop {display: none}
+}
