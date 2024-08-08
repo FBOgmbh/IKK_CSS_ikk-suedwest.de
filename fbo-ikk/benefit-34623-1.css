@@ -1,3 +1,3 @@
-#tarif-block {background-color: var(--color__white);
+.tabs-item {background-color: var(--color__white);
   -webkit-box-shadow: 0 0 15px rgba(0,0,0,.15);
     box-shadow: 0 0 15px rgba(0,0,0,.15);}
