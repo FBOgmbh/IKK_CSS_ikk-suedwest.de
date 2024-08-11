@@ -2,5 +2,5 @@
 
 @media (min-width: 720px) {
     .slick-slider{margin-left:100px; margin-right:100px;}
-    .slider-absatz{min-height:100px}
+    #slider-absatz{min-height:100px}
 }
