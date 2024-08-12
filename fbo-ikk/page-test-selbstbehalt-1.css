@@ -1,7 +1,7 @@
 #slider-absatz{min-height:100px}
 #fusstext{font-size:0.7em; line-height:1.2em}
 #slide2{min-height:370px}
-    .wp-block-group__inner-container{padding:30px !important}
+    .wp-block-group__inner-container{padding:15px !important}
 
 @media (min-width:720px){
     #slide2{min-height:400px}
