@@ -2,5 +2,5 @@
     .slick-slider{margin-left:100px; margin-right:100px;}
     .slider-item{padding-left:50px; padding-right:50px;}
 }
-    .wp-block-group__inner-container{margin:0px !important}
+    .wp-block-group__inner-container{padding:0px !important}
 #slider-absatz{min-height:100px}
