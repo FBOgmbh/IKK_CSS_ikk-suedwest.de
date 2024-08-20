@@ -3,7 +3,7 @@
 #fusstext{font-size:0.7em; line-height:1.2em}
 #slide2{min-height:250px}
     .wp-block-group__inner-container{padding:15px !important}
-#absatz_slide2{min-height:300px}
+
 
 @media (min-width:720px){
     #slide2{min-height:330px}
