@@ -9,4 +9,4 @@
 
 #rotate-div{transform: rotate(-90deg);}
 .wp-block-column:not(:first-child) {
-    margin-left: 1em;
+    margin-left: 0.5em;
