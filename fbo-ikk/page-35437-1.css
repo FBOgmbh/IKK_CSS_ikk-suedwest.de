@@ -8,3 +8,5 @@
  .wp-block-group__inner-container{padding:20px !important}}
 
 #rotate-div{transform: rotate(-90deg);}
+.wp-block-column:not(:first-child) {
+    margin-left: 1em;
