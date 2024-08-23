@@ -7,7 +7,7 @@
     #slide2{min-height:300px}
  .wp-block-group__inner-container{padding:20px !important}}
 
-#rotate-div{transform: rotate(-90deg);position:absolute;top:0px; left:-100px; background-color:black;width:250px}
+#rotate-div{transform: rotate(-90deg);position:absolute;top:200px; left:-80px; background-color:black;width:250px}
 #spalte{height:300px}
 .wp-block-column:not(:first-child) {
     margin-left: 0.5em;}
