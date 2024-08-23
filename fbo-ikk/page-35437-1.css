@@ -8,7 +8,7 @@
  .wp-block-group__inner-container{padding:20px !important}}
 
 #rotate-div{transform: rotate(-90deg);background-color: black;position:absolute;top:200px;left:-80px;width:250px;position: sticky;
-  top: 0;}
+  }
 #spalte{height:300px;}
 .wp-block-column:not(:first-child) {
     margin-left: 0.5em;}
