@@ -8,5 +8,6 @@
  .wp-block-group__inner-container{padding:20px !important}}
 
 #rotate-div{transform: rotate(-90deg);height:60px; width:300px}
+#spalte{height:300px}
 .wp-block-column:not(:first-child) {
     margin-left: 0.5em;}
