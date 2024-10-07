@@ -1,10 +1,10 @@
 #xl-tarif{padding:0px}
 #xxl-tarif{padding:0px}
 #fusstext{font-size:0.7em; line-height:1.2em}
-#slide2{min-height:270px}
+#slide2{min-height:250px}
     .wp-block-group__inner-container{padding:15px !important}
 
 
-@media (min-width:720px){
+@media (min-width:730px){
     #slide2{min-height:330px}
  .wp-block-group__inner-container{padding:20px !important}}
