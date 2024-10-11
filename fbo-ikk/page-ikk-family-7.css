@@ -1,0 +1,10 @@
+@media (max-width: 767px) { 
+  #leistungen_desktop { 
+    display: none !important; 
+  } 
+}
+@media (min-width: 767px) { 
+  #leistungen_mobile { 
+    display: none !important; 
+  } 
+}
