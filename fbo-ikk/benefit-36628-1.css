@@ -6,7 +6,9 @@
 
 @media (min-width:720px){
     #slide2{min-height:350px}
+    #absatz_slide2{min-height:120px}
  .wp-block-group__inner-container{padding:20px !important}}
+
 
 .description {padding-left: 0px !important;
     padding-right: 0px !important;}
