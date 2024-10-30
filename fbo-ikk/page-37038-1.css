@@ -8,3 +8,11 @@
   -moz-user-select: none;
   -ms-user-select: none;
     user-select: none;}
+
+.form-check-label input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
