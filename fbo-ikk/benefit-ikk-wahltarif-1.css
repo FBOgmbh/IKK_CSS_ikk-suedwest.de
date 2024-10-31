@@ -1,0 +1,6 @@
+@media (min-width: 720px) {
+    .slick-slider{margin-left:100px; margin-right:100px;}
+    .slider-item{padding-left:50px; padding-right:50px;}
+    #slider-absatz{min-height:100px}
+}
+    .wp-block-group__inner-container{padding:10px !important}
