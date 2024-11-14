@@ -38,4 +38,5 @@
 
 h1{display:none}
 
-#content{margin-top:100px !important}
+@media (min-width: 1366px) {
+  body:not(.has-keyvisual) > .content{margin-top:100px !important}
