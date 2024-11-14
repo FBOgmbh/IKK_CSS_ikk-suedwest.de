@@ -35,4 +35,4 @@
 .smalls{
     font-size: 13px;}
 
-body{background-image:none !important}
+body:not(.has-keyvisual):not(.is-app)::before{background-image:none !important}
