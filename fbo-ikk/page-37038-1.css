@@ -35,4 +35,4 @@
 .smalls{
     font-size: 13px;}
 
-body{content:none; !important}
+body ::before{content:none; !important}
