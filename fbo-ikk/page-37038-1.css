@@ -35,6 +35,6 @@
 .smalls{
     font-size: 13px;}
 
-#breadcrumbs{display:none}
+#breadcrumbs{display:none !important}
 
 h1{display:none}
