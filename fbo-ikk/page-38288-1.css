@@ -1,3 +1,7 @@
 article {
     border: 5px solid red;
 }
+
+article h1 {
+    border: 5px solid green;
+}
