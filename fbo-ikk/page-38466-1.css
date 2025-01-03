@@ -1,0 +1,7 @@
+#shield{color: var(--color__primary);
+  font-size: 1.25rem;
+  margin-right: var(--spaces-xxs);
+  position: absolute;
+  left: 0;
+    content: \"\\f117\";
+}
