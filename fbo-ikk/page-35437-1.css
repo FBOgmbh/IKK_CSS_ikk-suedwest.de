@@ -1,1 +1,3 @@
 .ikktt {position:relative;border-bottom:1px dashed #000}
+
+.ikktt:hover:before {display:block}
