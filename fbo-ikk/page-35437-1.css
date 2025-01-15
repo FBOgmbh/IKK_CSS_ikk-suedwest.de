@@ -4,11 +4,17 @@
 }
 
 .tooltip:before {
+  width:200px;
+  padding:10px;
+  border-radius:10px;
   background:#000;
   color: #fff;
-  text-align:center;display:none; 
+  text-align:center;
+  display:none; 
 }
 
 .tooltip:hover:before {
   display:block;
 }
+
+
