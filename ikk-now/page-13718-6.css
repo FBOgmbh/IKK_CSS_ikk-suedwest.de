@@ -10,6 +10,6 @@ h5 {text-transform:uppercase}
 span {font-size:20px;color:black}
 
 #gradient_white {
-    background-image: radial-gradient(closest-side at 500px, white, black) 
+    background-image: radial-gradient(closest-side at 300px, white, black) 
     
 }
