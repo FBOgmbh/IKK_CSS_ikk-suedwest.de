@@ -1,10 +1,11 @@
-.ikk_tooltip { }
 .ikk_tooltip:before {
   content: attr(data-text);
   position:absolute;
-    display:none;}
+  display:none;}
     
-    .ikk_tooltip:hover:before {
+.ikk_tooltip:hover:before {
   display:block;
-        background-color:red
+  background-color:red
+        --b: 2em;
+    --h: 1em;
 }
