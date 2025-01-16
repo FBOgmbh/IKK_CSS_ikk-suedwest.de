@@ -34,5 +34,8 @@
 
 .ikk_tooltip:after {
     
+      content: \"\";
+  position:absolute;
+
     
 }
