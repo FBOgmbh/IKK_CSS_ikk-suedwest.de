@@ -11,4 +11,6 @@ span {font-size:20px;color:black}
 
 #gradient_white {
     background-image: radial-gradient(white, black);
+    width:970px;
+    height:440px
 }
