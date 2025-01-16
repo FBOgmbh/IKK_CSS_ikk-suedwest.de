@@ -10,7 +10,7 @@ h5 {text-transform:uppercase}
 span {font-size:20px;color:black}
 
 #gradient_white {
-    background-image: radial-gradient(closest-side, #3f87a6, #ebf8e1, #f69d3c);
+    background-image: radial-gradient(closest-side, white, black);
     width:970px;
     height:440px
 }
