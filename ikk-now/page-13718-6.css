@@ -4,7 +4,7 @@ h4 {text-transform:uppercase}
 h5 {text-transform:uppercase}
 
     
-@media (max-width: 900px) {
+@media (max-width: 1600px) {
     #app_desktop{display:none}
 }
 
