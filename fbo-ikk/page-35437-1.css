@@ -1,3 +1,3 @@
 .ikktt {position:relative;border-bottom:1px dashed #000}
-.ikktt:before {content: attr(data-text);position:absolute;
+.ikktt:before {content: attr(data-text);position:absolute;ddddddd
 .ikktt:hover:before {display:block}
