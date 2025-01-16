@@ -10,4 +10,5 @@
     --h: 1em;
     border-image: fill 0 // var(--h)
     conic-gradient(#CC333F 0 0);
+    clip-path: ;
 }
