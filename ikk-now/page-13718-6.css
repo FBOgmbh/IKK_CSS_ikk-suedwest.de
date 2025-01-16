@@ -9,7 +9,7 @@ h5 {text-transform:uppercase}
 
 span {font-size:20px;color:black}
 
-.gradient_white {{
+#gradient_white {
     background-color: orange;
     width: 300px;
     height: 300px;
