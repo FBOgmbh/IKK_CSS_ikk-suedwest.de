@@ -1,4 +1,4 @@
-.ikk_tooltip {background-color:red}
+.ikk_tooltip { }
 .ikk_tooltip:before {
   content: attr(data-text);
   position:absolute;
@@ -6,4 +6,5 @@
     
     .ikk_tooltip:hover:before {
   display:block;
+        background-color:red
 }
