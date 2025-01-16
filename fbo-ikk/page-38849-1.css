@@ -3,6 +3,6 @@
   position:absolute;
     display:none;}
     
-    .tooltip:hover:before {
+    .ikk_tooltip:hover:before {
   display:block;
 }
