@@ -1,3 +1,4 @@
+.ikk_tooltip {background-color:red}
 .ikk_tooltip:before {
   content: attr(data-text);
   position:absolute;
