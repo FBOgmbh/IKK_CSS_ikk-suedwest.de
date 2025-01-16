@@ -1,1 +1,8 @@
-.center { display: block; margin: auto; }
+.tooltip:before {
+  content: attr(data-text);
+  position:absolute;
+    display:none;}
+    
+    .tooltip:hover:before {
+  display:block;
+}
