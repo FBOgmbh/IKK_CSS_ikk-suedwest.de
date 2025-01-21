@@ -1,0 +1,8 @@
+    
+@media (max-width: 1270px) {
+    #app_desktop{display:none}
+}
+
+@media (min-width: 1270px) {
+    #app_mobile{display:none}
+}
