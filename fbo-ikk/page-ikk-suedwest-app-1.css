@@ -3,6 +3,8 @@
         min-width:530px 
 }
 
+#slider-block-outer{min-width:530px }
+
 #box-block {
     min-height: 500px
 }
