@@ -1,6 +1,6 @@
 #slide-block {
     min-height: 520px;
-    padding: 0 0
+    min-width:310px
 }
 
 #box-block {
