@@ -5,6 +5,8 @@
 
 #slider-block-outer{min-width:330px }
 
+.slick-slider {padding: 0 35px}
+
 #box-block {
     min-height: 500px
 }
