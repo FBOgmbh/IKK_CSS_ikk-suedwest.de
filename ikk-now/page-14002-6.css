@@ -6,3 +6,7 @@
 @media (min-width: 1270px) {
     #app_mobile{display:none}
 }
+
+#app_desktop {
+    background-image: radial-gradient(farthest-side at 380px, white, black) 
+}
