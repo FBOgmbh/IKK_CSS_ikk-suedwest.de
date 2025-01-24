@@ -10,3 +10,5 @@
 #gradient_white {
     background-image: radial-gradient(farthest-side at 0px, white, black) 
 }
+
+.wp-block-cover__image-background {object-fit:contain}
