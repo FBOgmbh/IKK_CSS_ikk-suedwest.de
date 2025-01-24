@@ -7,6 +7,6 @@
     #app_mobile{display:none}
 }
 
-#app_desktop {
+#gradient_white {
     background-image: radial-gradient(farthest-side at 380px, white, black) 
 }
