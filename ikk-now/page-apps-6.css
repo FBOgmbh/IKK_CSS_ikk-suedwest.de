@@ -1,0 +1,23 @@
+h1 {text-transform: uppercase}  
+h2 {text-transform: uppercase} 
+h3 {text-transform: uppercase} 
+h4 {text-transform: uppercase} 
+h5 {text-transform: uppercase} 
+
+
+@media (max-width: 1270px) {
+    #app_desktop{display:none}
+
+}
+
+@media (min-width: 1270px) {
+    #app_mobile{display:none}
+}
+
+#gradient_white {
+    background-image: radial-gradient(farthest-side at 0px, white, black) 
+}
+
+.wp-block-cover__image-background {object-fit:contain}
+
+
