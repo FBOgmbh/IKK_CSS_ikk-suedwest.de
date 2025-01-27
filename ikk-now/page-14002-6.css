@@ -7,7 +7,7 @@ h5 {text-transform: uppercase}
 
 @media (max-width: 1270px) {
     #app_desktop{display:none}
-    #slider_ikk_sw_app {max-width:1000px}
+    #slider_ikk_sw_app {max-width:500px}
 }
 
 @media (min-width: 1270px) {
