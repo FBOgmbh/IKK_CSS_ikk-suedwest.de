@@ -24,3 +24,5 @@ span {font-size:20px;color:black}
 .wp-block-cover__image-background {object-fit:contain}
 
 .box-border {border: solid 1px #19b0e5}
+
+.nowrap {white-space: nowrap}
