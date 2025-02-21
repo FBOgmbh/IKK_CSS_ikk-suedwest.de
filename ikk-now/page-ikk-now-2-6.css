@@ -27,8 +27,8 @@ span {font-size:20px;color:black}
 
 @media (min-width:767px) and (max-width:1024px) {
   .wp-block-column:not(:only-child) {
-    -ms-flex-preferred-size:calc(50% - 0em)!important;
-    flex-basis:calc(50% - 0em)!important;
+    -ms-flex-preferred-size:50%!important;
+    flex-basis:50%!important;
     -webkit-box-flex:0;
     -ms-flex-positive:0;
     flex-grow:0
