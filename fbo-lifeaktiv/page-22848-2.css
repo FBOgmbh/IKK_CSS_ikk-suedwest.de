@@ -4,8 +4,8 @@
 
 .wp-block-media-text__content {z-index: -1 !important}
 
-#shadow-test {-webkit-box-shadow: 0 0 15px rgba(0,0,0,.15);
-    box-shadow: 0 0 15px rgba(0,0,0,.15);
+#shadow-test {-webkit-box-shadow: 10px 10px 15px rgba(0,0,0,.15);
+    box-shadow: 10px 10px 15px rgba(0,0,0,.15);
     border-radius: 5px;
     margin-top: 0;
     margin-bottom: 0;
