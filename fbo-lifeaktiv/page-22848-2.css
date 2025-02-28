@@ -3,3 +3,13 @@
 }
 
 .wp-block-media-text__content {z-index: -1 !important}
+
+.shadow-test {-webkit-box-shadow: 0 0 15px rgba(0,0,0,.15);
+    box-shadow: 0 0 15px rgba(0,0,0,.15);
+    border-radius: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: -100px;
+    padding: var(--spaces-m) var(--spaces-m) var(--spaces-m) calc(100px + var(--spaces-m));
+    width: calc(100% + 100px);
+}
