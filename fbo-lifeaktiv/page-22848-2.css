@@ -11,5 +11,5 @@
     margin-bottom: 0;
     margin-left: -100px;
     padding: var(--spaces-m) var(--spaces-m) var(--spaces-m) calc(100px + var(--spaces-m));
-    width: calc(100%);
+    width: calc(100% + 100px);
 }
