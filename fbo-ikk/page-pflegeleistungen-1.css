@@ -1,5 +1,5 @@
 @media (min-width:768px) {
     .wp-block-column:not(:first-child) {
-    margin-left:4em
+    margin-left:10em
   }
 }
