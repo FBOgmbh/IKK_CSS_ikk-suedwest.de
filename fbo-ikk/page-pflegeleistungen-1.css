@@ -3,3 +3,9 @@
     margin-left:4em
   }
 }
+
+@media (max-width: 768px) {
+  div.wp-block-columns .wp-block-column {
+    padding-bottom: 0px
+    }
+}
