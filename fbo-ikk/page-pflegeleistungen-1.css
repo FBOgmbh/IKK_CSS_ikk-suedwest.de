@@ -3,7 +3,7 @@
     margin-left:4em
              
    [class^=\"wp-block\"] + .wp-block-group.has-before {
-    margin-top: 100px;
+    margin-top: 0px;
   
   }
 }
