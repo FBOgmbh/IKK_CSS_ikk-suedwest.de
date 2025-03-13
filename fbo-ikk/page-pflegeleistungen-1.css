@@ -13,5 +13,9 @@
 .postarchive.benefit {
 
     .post {
-        padding: 0 0 1.25em 0;}
+       padding: 0 0 1.25em 0;}
+    
+    .post__title {
+      padding-right: 35px;
+}
 }
