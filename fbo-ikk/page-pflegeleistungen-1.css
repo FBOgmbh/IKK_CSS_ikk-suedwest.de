@@ -20,6 +20,6 @@
 
 @media (min-width: 768px) {
   [class^=\"wp-block\"] + .wp-block-group.has-before {
-    margin-top: 100px;
+    margin-top: 100px !important
   }
 }
