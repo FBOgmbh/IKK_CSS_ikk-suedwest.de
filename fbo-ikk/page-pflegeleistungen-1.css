@@ -1,6 +1,9 @@
 @media (min-width:768px) {
     .wp-block-column:not(:first-child) {
     margin-left:4em}
+    .wp-block-group.has-before {
+    margin-top: 150px !important
+  }
 }
 
 @media (max-width: 768px) {
@@ -18,8 +21,3 @@
     }
 }
 
-@media (min-width: 768px) {
-  .wp-block-group.has-before {
-    margin-top: 100px !important
-  }
-}
