@@ -6,7 +6,7 @@
 
 .wp-block-custom-blocks-singlepost.posts {
   vertical-align: top;
-    max-width:none;
+    max-width:400px;
 }
 
 .wp-block-custom-blocks-singlepost .location {
