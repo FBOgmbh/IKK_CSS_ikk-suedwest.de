@@ -6,3 +6,6 @@
 .wp-block-custom-blocks-singlepost.posts {
   vertical-align: top;
 }
+
+.wp-block-custom-blocks-singlepost .location {
+    min-height: 305px;}
