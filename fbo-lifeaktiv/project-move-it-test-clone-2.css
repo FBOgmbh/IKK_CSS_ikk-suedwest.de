@@ -1,14 +1,14 @@
 .wp-block-custom-blocks-singlestaff.is-style-box {
   min-height: 305px;
   text-align: center;
-    max-width: 360px;
+    max-width: 370px;
 }
 
 .wp-block-custom-blocks-singlepost.posts {
   vertical-align: top;
-    max-width:360px !important;
+    max-width:370px !important;
 }
 
 .wp-block-custom-blocks-singlepost .location {
     min-height: 305px;
-    max-width: 360px;}
+    max-width: 370px;}
