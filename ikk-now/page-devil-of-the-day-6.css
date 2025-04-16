@@ -2,4 +2,4 @@
        padding: 50px;}
 
 #content .wp-block-group>.wp-block-group__inner-container>*{
-    padding: 0}
+    padding: 0 !important}
