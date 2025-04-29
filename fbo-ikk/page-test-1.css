@@ -1,4 +1,4 @@
 @media (min-width:768px){
-    .wp-block-column {align-self:stretch; padding-bottom:0px}
+    .wp-block-column {align-self:stretch; padding-bottom:-50px}
 #full-height {height:100%}
 }
