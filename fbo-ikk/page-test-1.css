@@ -1,4 +1,4 @@
 @media (min-width:768px){
     
-#full-height {align-self:stretch}
+#full-height {align-self:stretch; height:100%}
 }
