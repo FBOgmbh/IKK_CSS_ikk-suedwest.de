@@ -1,5 +1,5 @@
 .wp-block-embed-youtube {max-width: 100%}
-#skyblue { padding: 50px}
+#skyblue { padding: 40px}
 @media (min-width: 1366px) {
   .wp-block-column:not(:first-child)
     {margin-left: 3em;}
