@@ -1,3 +1,12 @@
+#slidergruppe{
+    background-color: #009fe3
+    }
+
+#slidergruppe a{
+    color: white;
+    text-decoration: none;
+    }
+   
 #slidergruppe a::after {
  content: none !important;
   font-family: $font__icons;
@@ -7,13 +16,3 @@
   margin-left: 0px;
   margin-right: 0px;
     }
-
-#slidergruppe{
-    background-color: #009fe3
-    }
-
-#slidergruppe a{
-    color: white;
-    text-decoration: none;
-    }
-    
