@@ -1,5 +1,6 @@
 #slidergruppe{
-    background-color: #009fe3
+    background-color: #009fe3;
+    min-height: 250px;
     }
 
 #slidergruppe a{
