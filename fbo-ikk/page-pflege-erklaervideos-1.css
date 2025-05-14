@@ -1,5 +1,5 @@
 #slidergruppe a::after {
- content: \"ttt\" !important;
+ content: none !important;
   font-family: $font__icons;
  font-size: 5rem;
   display: inline-block;
