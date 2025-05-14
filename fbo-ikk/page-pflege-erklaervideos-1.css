@@ -3,7 +3,7 @@
     // {
     //     padding-right: 15px;
     //     &:after {
-    //         content: none !important;
+    //         content: \" \";
     //         font-family: $font__icons;
     //         font-size: 5rem;
     //         display: inline-block;
