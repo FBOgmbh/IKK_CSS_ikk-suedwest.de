@@ -1,6 +1,6 @@
 
   
-a   after {
+a: :after {
  content: \" \";
   font-family: $font__icons;
  font-size: 5rem;
