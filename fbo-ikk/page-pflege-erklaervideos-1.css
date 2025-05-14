@@ -5,6 +5,8 @@
 #slidergruppe a{
     color: white;
     text-decoration: none;
+    padding-right: 0px !important;
+
     }
    
 #slidergruppe a::after {
