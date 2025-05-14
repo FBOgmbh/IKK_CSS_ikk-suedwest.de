@@ -9,7 +9,10 @@
     }
 
 #slidergruppe{
-    color: white !important;
     background-color: #009fe3
+    }
+
+#slidergruppe a{
+    color: white;
     }
     
