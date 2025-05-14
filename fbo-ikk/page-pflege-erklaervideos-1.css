@@ -1,2 +1,5 @@
-#small-link {font-size: 16px; line-height: 18px !important;}
-#small-link a {text-decoration: none !important;}
+#content p a, #content ul a, .contact-sidebar p a {
+    &:after {
+    //         content: none;
+    }
+}
