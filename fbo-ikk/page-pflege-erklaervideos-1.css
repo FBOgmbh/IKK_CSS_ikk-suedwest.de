@@ -1,7 +1,5 @@
 a {
-    // &[href^=\"https://\"]:not([class]):not([href*=\"https://ikk-\"]):not([href*=\"https://test.ikk-\"])
-    // {
-    //     padding-right: 15px;
+  
     //     &:after {
     //         content: \" \";
     //         font-family: $font__icons;
