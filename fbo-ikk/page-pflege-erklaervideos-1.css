@@ -6,7 +6,10 @@
     color: white;
     text-decoration: none;
     padding-right: 0px !important;
+    }
 
+#slidergruppe p{
+    text-align: center;
     }
    
 #slidergruppe a::after {
