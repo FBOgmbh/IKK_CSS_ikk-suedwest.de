@@ -16,3 +16,6 @@
   margin-left: 0px;
   margin-right: 0px;
     }
+
+#content p a:not([href=\"#\"]){
+    padding-right: 0px}
