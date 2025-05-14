@@ -1,7 +1,7 @@
 #slidergruppe a::after {
  content: none !important;
   font-family: $font__icons;
- font-size: 5rem;
+ font-size: 1rem;
   display: inline-block;
  text-decoration: none;
   margin-left: 0px;
