@@ -15,5 +15,6 @@
 #slidergruppe a{
     color: white;
     text-decoration: none;
+    display: block;
     }
     
