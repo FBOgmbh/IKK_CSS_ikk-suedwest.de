@@ -1,5 +1,14 @@
 #content p a, #content ul a, .contact-sidebar p a {
-    &:after {
-    //         content: none;
-    }
-}
+    // &[href^=\"https://\"]:not([class]):not([href*=\"https://ikk-\"]):not([href*=\"https://test.ikk-\"])
+    // {
+    //     padding-right: 15px;
+    //     &:after {
+    //         content: \"\\f141\";
+    //         font-family: $font__icons;
+    //         font-size: 5rem;
+    //         display: inline-block;
+    //         text-decoration: none;
+    //         margin-left: 5px;
+    //         margin-right: -15px;
+    //     }
+    // }
