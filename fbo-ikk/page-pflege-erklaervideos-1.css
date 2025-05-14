@@ -1,4 +1,4 @@
-#content p a, #content ul a, .contact-sidebar p a {
+a {
     // &[href^=\"https://\"]:not([class]):not([href*=\"https://ikk-\"]):not([href*=\"https://test.ikk-\"])
     // {
     //     padding-right: 15px;
