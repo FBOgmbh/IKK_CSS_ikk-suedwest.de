@@ -1,6 +1,6 @@
 
   
-a: :after {
+a::after {
  content: \"ttt\" !important;
   font-family: $font__icons;
  font-size: 5rem;
