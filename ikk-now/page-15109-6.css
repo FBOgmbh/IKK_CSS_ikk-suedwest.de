@@ -3,10 +3,5 @@
 #label_21_32_3,
 {font-size: 22px !important; font-weight: bold;}
 
-.gchoice {padding-right: 60px !important}
+.gchoice {padding-right: 60px !important;  min-width:0px !important;}
 
-.gform_wrapper.gform_validation_error form .gform_body .gform_fields .gfield .gchoice label,
-.gform_wrapper form .gform_body .gform_fields .gfield .gchoice label {
-  min-width:0px !important;
-
-}
