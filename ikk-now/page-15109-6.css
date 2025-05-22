@@ -16,9 +16,16 @@
 }
 
 .gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {
+  inline-size:100%;
+  max-inline-size:100%;
+  min-inline-size:100%;
+}
+
+@media (min-width:641px) {
+.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {
   inline-size:220px;
   max-inline-size:220px;
-  min-inline-size:100px;
+  min-inline-size:220px;
 }
 
 .gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice:where(:has(input:checked))::after {
