@@ -1,5 +1,3 @@
-
-
 .gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {
   inline-size:100px;
   max-inline-size:100px;
@@ -12,7 +10,8 @@
   max-inline-size:220px;
   min-inline-size:220px;
 }
-    #input_21_33 label {
+
+#input_21_33 label {
     font-size:20px;
   }
     }
