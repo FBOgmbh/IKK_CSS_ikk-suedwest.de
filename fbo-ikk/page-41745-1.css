@@ -1,12 +1,2 @@
-.archive.posts,
-.postarchive.post,
-.archive,
-.postarchive.page,
-body div.postarchive.is-style-news-teaser,
-body div.postarchive.is-style-page-teaser,
-body div.postarchive.is-style-teaser,
-div.postarchive.is-style-highlights,
-div.archive.is-style-highlights {
-    .posts,
-    &.posts {
+.post__title-link {
         color: none}
