@@ -20,3 +20,7 @@
   max-inline-size:220px;
   min-inline-size:220px;
 }
+
+.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice:where(:has(input:checked))::after {
+  background-color:#19b0e5;
+}
