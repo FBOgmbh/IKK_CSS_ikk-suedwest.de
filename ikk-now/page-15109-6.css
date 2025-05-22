@@ -3,7 +3,7 @@
   display:none;
 }
 
-.gform_wrapper.gform_validation_error form .gform_body input[type=checkbox]:checked+label:after,
+#input_21_33 .gform_wrapper.gform_validation_error form .gform_body input[type=checkbox]:checked+label:after,
 .gform_wrapper form .gform_body input[type=checkbox]:checked+label:after {
   display:none;
 }
