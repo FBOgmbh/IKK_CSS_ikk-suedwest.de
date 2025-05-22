@@ -25,6 +25,6 @@
   }
 
 
-.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice .gfield-image-choice-wrapper-outer {
+ .gform_wrapper.gform_validation_error .gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice .gfield-image-choice-wrapper-outer {
     text-align:center;
 }
