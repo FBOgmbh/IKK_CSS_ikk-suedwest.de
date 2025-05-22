@@ -4,4 +4,4 @@
 {font-size: 22px !important; font-weight: bold;}
 
 
-.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {inline-size: none !important; max-inline-size: none !important; min-inline-size: none !important;}
+.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {inline-size: 500px !important; max-inline-size: 500px !important; min-inline-size: 500px !important;}
