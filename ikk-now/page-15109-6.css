@@ -6,5 +6,11 @@
 .gform_wrapper.gform_validation_error form .gform_body input[type=checkbox]:checked+label:after,
 .gform_wrapper form .gform_body input[type=checkbox]:checked+label:after {
   display:none;
+}
 
+.gform_wrapper.gform_validation_error form .gform_body input[type=checkbox]+label,
+.gform_wrapper.gform_validation_error form .gform_body input[type=radio]+label,
+.gform_wrapper form .gform_body input[type=checkbox]+label,
+.gform_wrapper form .gform_body input[type=radio]+label {
+  padding-left:0px;
 }
