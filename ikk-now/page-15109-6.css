@@ -4,4 +4,4 @@
 {font-size: 22px !important; font-weight: bold;}
 
 
-.gchoice {inline-size: none; max-inline-size: none; min-inline-size: none;}
+.gchoice {inline-size: none !important; max-inline-size: none !important; min-inline-size: none !important;}
