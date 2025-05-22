@@ -14,3 +14,9 @@
 .gform_wrapper form .gform_body input[type=radio]+label {
   padding-left:0px;
 }
+
+.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {
+  inline-size:200px;
+  max-inline-size:200px;
+  min-inline-size:200px;
+}
