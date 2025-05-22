@@ -1,5 +1,5 @@
 #input_21_33 > form .gform_body input[type=checkbox]+label:before,
-.gform_wrapper form .gform_body input[type=checkbox]+label:before {
+ {
   display:none;
 }
 
