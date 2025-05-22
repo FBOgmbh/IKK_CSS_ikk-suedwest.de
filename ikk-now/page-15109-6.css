@@ -32,10 +32,9 @@
   background-color:#19b0e5 !important;
 }
 
-
-#input_21_33  .gform_wrapper.gform_validation_error form .gform_body .gform_fields .gfield .gchoice label,
-  .gform_wrapper form .gform_body .gform_fields .gfield .gchoice label {
+.gchoice label {
     font-size:20px;
+    font-weight:bold;
   }
 
 
