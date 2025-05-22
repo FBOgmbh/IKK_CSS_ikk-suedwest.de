@@ -1,6 +1,10 @@
 .gform_wrapper.gform_validation_error form .gform_body input[type=checkbox]+label:before,
 .gform_wrapper form .gform_body input[type=checkbox]+label:before {
+  display:none;
+}
 
+.gform_wrapper.gform_validation_error form .gform_body input[type=checkbox]:checked+label:after,
+.gform_wrapper form .gform_body input[type=checkbox]:checked+label:after {
   display:none;
 
 }
