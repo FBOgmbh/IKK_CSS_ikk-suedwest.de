@@ -32,3 +32,7 @@
     font-weight:bold;
   }
 }
+
+.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice .gfield-image-choice-wrapper-outer {
+    text-align:center;
+}
