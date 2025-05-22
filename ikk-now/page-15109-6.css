@@ -16,9 +16,9 @@
 }
 
 .gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {
-  inline-size:100%;
-  max-inline-size:100%;
-  min-inline-size:100%;
+  inline-size:80%;
+  max-inline-size:80%;
+  min-inline-size:80%;
 }
 
 @media (min-width:641px) {
