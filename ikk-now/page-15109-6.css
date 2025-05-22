@@ -1,12 +1,5 @@
 
 
-.gform_wrapper.gform_validation_error form .gform_body input[type=checkbox]+label,
-.gform_wrapper.gform_validation_error form .gform_body input[type=radio]+label,
-.gform_wrapper form .gform_body input[type=checkbox]+label,
-.gform_wrapper form .gform_body input[type=radio]+label {
-  padding-left:0px;
-}
-
 .gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {
   inline-size:100px;
   max-inline-size:100px;
