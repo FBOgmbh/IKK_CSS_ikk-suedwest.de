@@ -24,3 +24,10 @@
 .gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice:where(:has(input:checked))::after {
   background-color:#19b0e5;
 }
+
+@media (min-width:1024px) {
+  .gform_wrapper.gform_validation_error form .gform_body .gform_fields .gfield .gchoice label,
+  .gform_wrapper form .gform_body .gform_fields .gfield .gchoice label {
+    font-size:204px
+  }
+}
