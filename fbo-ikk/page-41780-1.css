@@ -1,1 +1,12 @@
 #dank {text-wrap: none !important}
+body .wp-block-custom-blocks-singlepost.posts {
+    display: inline-flex;
+    max-width: 385px;
+    min-width: 360px;
+    margin-right: 15px;
+    width: calc(50% - 20px);
+
+    @include mobile {
+        max-width: 100%;
+        min-width: 100%;
+    }
