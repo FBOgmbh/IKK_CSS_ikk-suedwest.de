@@ -28,6 +28,7 @@
 
 .slick-dots li {
     margin: 0 !important;
+    width: 30px !important;
 }
 
 .slick-dots li button:before {
