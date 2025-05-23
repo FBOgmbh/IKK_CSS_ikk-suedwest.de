@@ -30,8 +30,8 @@
     margin: 0 !important;
 }
 
-.slick-dots li button {
-    content: \'\';
+.slick-dots li button:before {
+    content: \'\' !important;
     background-color: var(--color__primary);
 }
 
