@@ -1,22 +1,22 @@
-#slidergruppe{
+.testslider .slider-item > div{
     background-color: #009fe3;
     min-height: 240px;
     }
 
-#slidergruppe a{
+.testslider .slider-item > div a{
     color: white;
     text-decoration: none;
     padding-right: 0px !important;
     }
 
-#slidergruppe p{
+.testslider .slider-item > div p{
     text-align: center;
     padding: 20px;
     line-height: 1.2rem;
 
     }
    
-#slidergruppe a::after {
+.testslider .slider-item > div a::after {
  content: none !important;
   font-family: $font__icons;
  font-size: 1rem;
@@ -25,4 +25,6 @@
   margin-left: 0px;
   margin-right: 0px;
     }
+
+
 
