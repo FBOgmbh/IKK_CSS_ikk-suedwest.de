@@ -1,0 +1,10 @@
+#dank {text-wrap: none !important;}
+
+.wp-block-custom-blocks-singlepost.posts {
+    display: inline-flex;
+    max-width: 1000px;
+    min-width: 360px;
+    margin-right: 30px;
+    width: calc(50% - 60px) !important;
+   
+    }
