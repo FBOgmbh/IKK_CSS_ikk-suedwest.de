@@ -1,0 +1,30 @@
+.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {
+  inline-size:100px;
+  max-inline-size:100px;
+  min-inline-size:100px;
+}
+
+@media (min-width:641px) {
+.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice {
+  inline-size:220px;
+  max-inline-size:220px;
+  min-inline-size:220px;
+}
+
+#input_21_33 label {
+    font-size:20px;
+  }
+    }
+
+.gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice:where(:has(input:checked))::after {
+  background-color:#19b0e5;
+}
+
+#input_21_33 label {
+    font-weight:bold;
+  }
+
+
+ .gform_wrapper.gravity-theme .ginput_container_image_choice .gchoice .gfield-image-choice-wrapper-outer {
+    text-align:center;
+}
