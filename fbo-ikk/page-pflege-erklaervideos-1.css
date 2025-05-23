@@ -33,5 +33,6 @@
 .slick-dots li button:before {
     content: \'\' !important;
     background-color: var(--color__primary);
+    width: 30px !important;
 }
 
