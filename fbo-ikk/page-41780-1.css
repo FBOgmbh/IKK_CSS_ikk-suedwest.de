@@ -1,5 +1,6 @@
-#dank {text-wrap: none !important}
-body .wp-block-custom-blocks-singlepost.posts {
+#dank {text-wrap: none !important;}
+
+.wp-block-custom-blocks-singlepost.posts {
     display: inline-flex;
     max-width: 1000px;
     min-width: 360px;
