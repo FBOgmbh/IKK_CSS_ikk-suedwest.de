@@ -26,5 +26,12 @@
   margin-right: 0px;
     }
 
+.slick-dots li {
+    margin: 0 !important;
+}
 
+.slick-dots li button {
+    content: \'\';
+    background-color: var(--color__primary);
+}
 
