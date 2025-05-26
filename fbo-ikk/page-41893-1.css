@@ -1,0 +1,39 @@
+.testslider .slider-item > div{
+    background-color: #009fe3;
+    min-height: 240px;
+    }
+
+.testslider .slider-item > div a{
+    color: white;
+    text-decoration: none;
+    padding-right: 0px !important;
+    }
+
+.testslider .slider-item > div p{
+    text-align: center;
+    padding: 20px;
+    line-height: 1.2rem;
+
+    }
+   
+.testslider .slider-item > div a::after {
+ content: none !important;
+  font-family: $font__icons;
+ font-size: 1rem;
+  display: inline-block;
+ text-decoration: none;
+  margin-left: 0px;
+  margin-right: 0px;
+    }
+
+.slick-dots li {
+    margin: 0 !important;
+    width: 30px !important;
+}
+
+.slick-dots li button:before {
+    content: \\\'\\\' !important;
+    background-color: var(--color__primary);
+    width: 30px !important;
+}
+
