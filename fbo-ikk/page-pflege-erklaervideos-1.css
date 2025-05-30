@@ -27,13 +27,13 @@
     }
 
 .slick-dots li {
-    margin: 0 !important;
-    width: 30px !important;
+    //margin: 0 !important;
+    //width: 30px !important;
 }
 
 .slick-dots li button:before {
-    content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\' !important;
-    background-color: var(--color__primary);
-    width: 30px !important;
+    //content: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\' !important;
+    //background-color: var(--color__primary);
+    //width: 30px !important;
 }
 
