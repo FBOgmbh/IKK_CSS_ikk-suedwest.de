@@ -25,10 +25,7 @@ span {font-size:20px;color:black}
 
 .box-border {border: solid 1px #19b0e5}
 
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
+
 .now-fade-in {
   animation: fadeIn 3s ease; animation-timeline: scroll();
 }
