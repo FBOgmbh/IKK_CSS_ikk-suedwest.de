@@ -27,7 +27,8 @@ span {font-size:20px;color:black}
 
 .now-fade-in {animation: now-fade-in linear forwards; animation-timeline: view(); animation-range: entry;}
 @keyframes now-fade-in {
-    0% {opacity: 0; transform: translatey{400px}
+    0% {opacity: 0; transform: translatey(400px)
     }
-    100% {opacity: 1; transform: translatey{400px}
+    100% {opacity: 1; transform: translatey(400px)
     }
+}
