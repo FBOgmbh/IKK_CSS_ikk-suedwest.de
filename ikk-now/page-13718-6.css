@@ -25,4 +25,4 @@ span {font-size:20px;color:black}
 
 .box-border {border: solid 1px #19b0e5}
 
-.now-fade-in {animation: spin linear both; animation-timeline: scroll()}
+.now-fade-in {animation: spin linear both}
