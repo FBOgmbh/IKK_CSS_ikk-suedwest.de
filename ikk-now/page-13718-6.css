@@ -24,3 +24,10 @@ span {font-size:20px;color:black}
 .wp-block-cover__image-background {object-fit:contain}
 
 .box-border {border: solid 1px #19b0e5}
+
+.now-fade-in {animation: linear forwards; animation-timeline: view(); animation-range: entry;}
+@keyframes now-fade-in {
+    0% {opacity: 0; transform: translatey{400px}
+    }
+    100% {opacity: 1; transform: translatey{400px}
+    }
