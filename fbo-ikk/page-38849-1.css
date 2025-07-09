@@ -1,4 +1,3 @@
-
 .ikk_tooltip:before {
   content: attr(data-text);
   position:absolute;
