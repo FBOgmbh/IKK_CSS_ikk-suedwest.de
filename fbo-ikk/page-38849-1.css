@@ -1,4 +1,4 @@
-.lennart {background-color: red}
+.lennart {background-color: red; color: white}
 
 .ikk_tooltip:before {
   content: attr(data-text);
