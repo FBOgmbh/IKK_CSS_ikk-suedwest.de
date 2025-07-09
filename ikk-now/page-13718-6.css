@@ -29,6 +29,6 @@ span {font-size:20px;color:black}
 @keyframes now-fade-in {
     0% {opacity: 0; transform: translatey(400px)
     }
-    100% {opacity: 1; transform: translatey(400px)
+    100% {opacity: 1; transform: translatey(0px)
     }
 }
