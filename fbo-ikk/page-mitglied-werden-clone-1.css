@@ -5,3 +5,7 @@
 #box-block {
     min-height: 500px
 }
+
+.wp-block-custom-blocks-accordion .accordion-item .headline {background-color: #f8f8f8; color: black; border: 1px black solid;}
+
+.wp-block-custom-blocks-accordion .accordion-item {margin-bottom: 20px}
