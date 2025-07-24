@@ -2,5 +2,5 @@
     min-height: 500px
 }
 
-.wp-block-custom-blocks-accordion .accordion-item .headline {background-color: #f8f8f8; color: black; border: none; font-weight: light}
+.wp-block-custom-blocks-accordion .accordion-item .headline {background-color: #f8f8f8; color: black; border: none; font-weight: 100}
 .wp-block-custom-blocks-accordion .accordion-item {margin-bottom: 20px; border-bottom: 1px solid #00000042;}
